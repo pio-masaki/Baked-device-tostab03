@@ -1,0 +1,7 @@
+Device tree for use in building Team Baked Black Bean 6, based on the Unified CM10 project trees. Modified to work with Black Bean. 
+
+Of note, the kernel doesn't always build properly inline, consider building separate or using the latest kernel binary of Balthesaur available in the Unified CM10 builds.
+
+You will still need to sync with the Baked source before using this tree, then add this tree where appropriate.
+
+/bakedsource/device/toshiba/tostab03/thesefiles
